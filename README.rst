@@ -10,4 +10,10 @@ Setup
 
     $ go get
     $ go install
+
+Usage
+-----
+
+.. code-block:: bash
+
     $ static-site-generator index.md
